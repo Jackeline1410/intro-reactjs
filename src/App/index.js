@@ -92,6 +92,7 @@ const deleteTodo = (text) => {
 
   return (
     <AppUI
+    
       loading={loading}
       error={error}
       totalTodos={totalTodos}
